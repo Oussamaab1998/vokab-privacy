@@ -2,8 +2,8 @@ import React from "react";
 
 function TermsOfUse() {
   return (
-    <div>
-      <h1>TERMS OF USE AGREEMENT</h1>
+    <div className="container">
+      <h1>Vokab - TERMS OF USE AGREEMENT</h1>
 
       <p>
         Welcome to Vokab: Language Learning App ("the App"). The following Terms
